@@ -89,9 +89,3 @@ Start the application
 ```
 
 Open your browser and visit http://localhost:3000
-
-To stop the application
-
-```bash
-  docker-compose down
-```
